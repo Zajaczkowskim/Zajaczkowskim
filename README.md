@@ -1,11 +1,34 @@
 <h1 align="center">Hi 👋, I'm Michał Zajączkowski</h1>
-<h3 align="center">A passionate Data Science student of Warsaw University of Technology</h3>
 
 ## About Me
 
 - 🎓 Studying at Warsaw University of Technology
 - 💻 Majoring in Data Science
+- 📫 Email: mzajaczkowski107@gmail.com
 
+## Areas of intrest
+I'm currently focused on building a solid foundation and gaining hands-on experience in the following areas:
+- Quantitative Research
+- Artificial Intelligence
+- Machine Learning
+- Data-Driven Problem Solving
+
+
+## Hackathon Projects  
+
+I've been involved in several hackathons over time, each one helping me grow my skills and learn something new. Here are a few events I’ve participated in:
+
+- [**HackYeah 2024**](https://github.com/Zajaczkowskim/PoopPatrol "Visit the repository") – **2nd place** in the Activity and Wellness category 
+- **EnsembleAI** – **4th place**
+  - [**Membership Inference Attack**](https://github.com/Zajaczkowskim/PoopPatrol "Visit the repository") - Implemented a membership inference attack on a ResNet18 model, using shadow models and statistical techniques to assign confidence scores and maximize AUC ROC under limited data access.
+  - [**Model Stealing**](https://github.com/Zajaczkowskim/PoopPatrol "Visit the repository") Query-efficient model stealing pipeline to replicate a protected SSL encoder by minimizing the L2 distance between our surrogate model’s embeddings and the target’s outputs.
+  - [**Robustness to Adversarial Attacks**](https://github.com/Zajaczkowskim/PoopPatrol "Visit the repository") - ResNet-based classifier trained to remain accurate on both clean and adversarially perturbed data using FGSM and PGD, optimizing the trade-off between robustness and standard accuracy.
+
+## University projects
+
+## Private projects
+
+## Tools
 - I have experience with:
   <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
@@ -22,7 +45,3 @@
   <br>
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-## Get in Touch
-- 📫 Email: mzajaczkowski107@gmail.com
-
