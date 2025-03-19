@@ -27,6 +27,7 @@ I've been involved in several hackathons over time, each one helping me grow my 
 ## University projects
   - [Bank Marketing Classification Model](https://github.com/Zajaczkowskim/MachineLearning-project1) A supervised machine learning project focused on predicting the outcome of bank marketing campaigns based on client data using advanced preprocessing, feature engineering, and model evaluation techniques.
   - [Soccer matches data analysis](https://github.com/Zajaczkowskim/Soccer-matches-data-analysis) Clustering football players based on in-game performance statistics using unsupervised machine learning techniques.
+  - [Bioinformatics](https://github.com/Zajaczkowskim/Bioinformatics_Project) Recently discovered algorithms and developed computers give scientists chance to create more and more advanced models of chromatin that are very similar to the reality. This paper presents the result of the work on modelling chromatin using popular tools.
   - [Messenger data visualisation dashboard](https://github.com/Zajaczkowskim/projectMe) developed in R (Shiny). The aim was to prepare interactive dashboard which presents data analysis about authors. We chose data from messaging app - Messenger and visualized them.
   - [E-commerce store](https://github.com/Zajaczkowskim/Django_Project) web application developed with Django, allowing users to browse, filter and purchase products.
 
