@@ -20,7 +20,7 @@ I've been involved in several hackathons over time, each one helping me grow my 
 
 - [**HackYeah 2024**](https://github.com/Zajaczkowskim/PoopPatrol "Visit the repository") – **2nd place** in the Activity and Wellness category 
 - **EnsembleAI** – **4th place**
-  - [**Robustness to Adversarial Attacks**]("https://github.com/Zajaczkowskim/EnsembleAI-Robustness/tree/main") - ResNet-based classifier trained to remain accurate on both clean and adversarially perturbed data using FGSM and PGD, optimizing the trade-off between robustness and standard accuracy.
+  - [**Robustness to Adversarial Attacks**](https://github.com/Zajaczkowskim/EnsembleAI-Robustness/tree/main) - ResNet-based classifier trained to remain accurate on both clean and adversarially perturbed data using FGSM and PGD, optimizing the trade-off between robustness and standard accuracy.
   - [**Membership Inference Attack**](https://github.com/Zajaczkowskim/PoopPatrol "Visit the repository") - Implemented a membership inference attack on a ResNet18 model, using shadow models and statistical techniques to assign confidence scores and maximize AUC ROC under limited data access.
   - [**Model Stealing**](https://github.com/Zajaczkowskim/PoopPatrol "Visit the repository") Query-efficient model stealing pipeline to replicate a protected SSL encoder by minimizing the L2 distance between our surrogate model’s embeddings and the target’s outputs.
 
